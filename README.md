@@ -1,4 +1,4 @@
-# pythonimage
+# Python Virtual Environment for Course
 
 This script will help you to create a Python 3 virtual environemtn with the required
 libraries for the course.
