@@ -42,3 +42,9 @@ If you just run the mac_setup.sh script, test your environment with the plots01.
 source /Users/asamary/git/python/BCPYTHON/bin/activate
 python3 ./plots01.py
 ```
+
+## X11 Installation
+
+If your Mac doesn't have X11 installed, try installing Quartz from the URL bellow:
+
+https://www.xquartz.org
